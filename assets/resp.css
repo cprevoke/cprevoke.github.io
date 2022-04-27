@@ -1,0 +1,11 @@
+@media screen and (max-width: 500px) {
+  #main {
+    width: 100% !important; 
+  }
+}
+#bgdrp {
+  background-image: url("./bg.jfif") !important;
+  background-color: #212121;
+  filter: blur(3px);
+  -webkit-filter: blur(3px);
+}

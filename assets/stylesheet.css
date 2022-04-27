@@ -1,0 +1,49 @@
+.main-dev {
+
+}
+
+#btncp {
+  border-radius: 0.6rem !important;
+}
+.wrapper-buttons {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+}
+.wrapper-buttons > * {
+  margin-bottom: 10px;
+}
+.wrapper-buttons > *:first-child {
+  margin-top: 10px;
+}
+
+.wrapper-buttons > *:last-child {
+  margin-bottom: 0px;
+}
+#btnseed {
+  display: inline-block;
+  font-family: comfortaa, Whitney, "Open Sans", Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 11pt;
+  border-radius: 3rem; 
+  cursor: pointer;
+  height: 45px;
+  width: 250px;
+  box-shadow: 0px 2px 3px 0px #212121;
+}
+
+#btnseed {
+  background-color: #7289da !important;
+  border: 2px solid #7289da !important;
+  color: #fff;
+}
+#btnseed:hover {
+  transform: translateY(1px);
+}
+#btnseed:active {
+  transform: translateY(2px);
+}
+#btnseed {
+  outline: transparent !important;
+}
